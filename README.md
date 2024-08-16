@@ -1,7 +1,7 @@
 
 # InstaCaptionAI
 
-InstaCaptionAI is a Streamlit-based web application that uses Google's Generative AI models to create engaging Instagram captions based on user-provided scenarios or images. This tool is designed to help users generate creative, humorous, and conversational captions tailored to their specific needs.
+InstaCaptionAI is a Streamlit-based web application that uses Google's Generative AI models to create engaging Instagram captions based on user-provided scenarios or images. This tool is designed to help users generate creative, humorous, and conversational captions tailored to their specific needs. For a more in-depth understanding of the implementation, you can also refer to my [Medium article](https://medium.com/@vrajesh_b15/how-to-build-an-ai-powered-instagram-caption-generator-using-streamlit-langchain-and-googles-7b6c09cc83f6).
 
 ## Features
 
